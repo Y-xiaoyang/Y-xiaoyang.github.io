@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xiaoyang Yuan/Personal Homepage"
+title                    : "Xiaoyang Yuan/袁霄阳"
 title_separator          : "-"
 name                     : &name "Xiaoyang Yuan"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
