@@ -40,10 +40,10 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 
   <!-- 右侧信息 -->
   <div style="flex:1;">
-    <h3 style="margin:0 0 0.3em 0;">Paper Title Goes Here</h3>
+    <h3 style="margin:0 0 0.3em 0;">FDPF-Net: A Full-Scale Dynamic Pyramid Fusion Network for Infrared Small Target Detection</h3>
     <p style="margin:0.1em 0; font-size:0.9em; color:#555;">
       Xiaoyang Yuan, Coauthors.<br>
-      <em>Journal / Conference Name, Year</em>
+      <em>IEEE Transactions on Geoscience and Remote Sensing, 2025</em>
     </p>
 
     <!-- 摘要折叠按钮 -->
@@ -53,7 +53,7 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 
     <!-- 摘要内容 -->
     <div class="pub-abstract" style="margin-top:0.5em; font-size:0.9em; color:#333; max-height:0; overflow:hidden; transition:max-height 0.4s ease;">
-      Abstract goes here...
+      Infrared small target detection (IRSTD) methods have been extensively researched for various military and civilian applications and have greatly developed with the progress of deep learning in recent years. However, the performance of IRSTD remains limited due to challenges such as weak detection capabilities for diverse target boundaries and the complex background clutter present in infrared images across different scenarios. To overcome these challenges, this article proposes a two-stage end-to-end full-scale dynamic pyramid fusion network (FDPF-Net). This network aims to refine small target boundary information and enhance both background consistency and the contrast between the target and its surroundings. The FDPF-Net introduces a feature extraction trunk subnetwork and a full-scale dynamic refinement subnetwork to extract and refine target and background information. Additionally, the proposed cross-layer scale-adaptive (CSA) module which is positioned between the trunk and the refinement subnetworks, adaptively integrates and optimizes the full-scale feature representation for boundary feature compensation. Finally, a feature pyramid fusion module is used to fuse and exploit the intrinsic information of small targets, avoiding feature dilution during the information passing process. Experimental results on three public datasets demonstrate that the proposed FDPF-Net outperforms other state-of-the-art (SOTA) methods in terms of intersection over union (IoU), dice similarity coefficient (DSC), Precision (Pre), and Sensitivity (Se) and also exhibits more robust segmentation performance. It also maintains a balance between segmentation performance and model complexity, indicating its significant potential for real-world IRSTD applications.
     </div>
   </div>
 </div>
