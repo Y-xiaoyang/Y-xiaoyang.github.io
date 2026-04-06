@@ -31,6 +31,11 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 
 ---
 
+## 📝 Peer Review Activities
+
+![Peer Review Record](images/peer review.png)
+
+---
 ## 📬 Contact
 
 - Email: Yuanxiaoyang1998@outlook.com  
