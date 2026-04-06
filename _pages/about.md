@@ -31,7 +31,7 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 <div class="publication-card" style="display:flex; align-items:flex-start; margin-bottom:2em; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); padding:1em; transition:all 0.3s;">
 
   <!-- 左侧图像 -->
-  <div style="flex:0 0 150px; margin-right:1em;">
+  <div style="flex:0 0 200px; max-width:100%; margin-right:1em;">
     <img src="images/FDPF.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
   </div>
 
