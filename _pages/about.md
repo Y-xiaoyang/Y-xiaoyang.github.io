@@ -60,7 +60,7 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 
   <!-- 左侧图像 -->
   <div style="flex:0 0 150px; margin-right:1em;">
-    <img src="images/FDPF.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
+    <img src="images/Lovenet.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
   </div>
 
   <!-- 右侧信息 -->
@@ -88,7 +88,7 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 
   <!-- 左侧图像 -->
   <div style="flex:0 0 150px; margin-right:1em;">
-    <img src="images/FDPF.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
+    <img src="images/Viamln.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
   </div>
 
   <!-- 右侧信息 -->
@@ -116,7 +116,7 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 
   <!-- 左侧图像 -->
   <div style="flex:0 0 150px; margin-right:1em;">
-    <img src="images/FDPF.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
+    <img src="images/MNHU.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
   </div>
 
   <!-- 右侧信息 -->
@@ -144,7 +144,7 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 
   <!-- 左侧图像 -->
   <div style="flex:0 0 150px; margin-right:1em;">
-    <img src="images/FDPF.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
+    <img src="images/IIMCNet.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
   </div>
 
   <!-- 右侧信息 -->
