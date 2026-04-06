@@ -30,6 +30,23 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 - **OASNet: Orthogonal Attention-Guided Spatial–Semantic Representation Learning Network for Infrared Small Target Detection**  
 ## Publications
 
+<div class="publication-card">
+  <div style="display:flex; align-items:flex-start; margin-bottom:2em; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); padding:1em;">
+    <div style="flex:0 0 150px; margin-right:1em;">
+      <img src="assets/images/paper1.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
+    </div>
+    <div style="flex:1;">
+      <h3>Paper Title Goes Here</h3>
+      <p style="font-size:0.9em; color:#555;">Xiaoyang Yuan, Coauthors.<br><em>Journal / Conference Name, Year</em></p>
+      <button class="abstract-toggle" style="margin-top:0.5em; font-size:0.85em; cursor:pointer; background-color:#f0f0f0; border:none; padding:0.4em 0.8em; border-radius:4px;">
+        Show Abstract
+      </button>
+      <div class="pub-abstract" style="margin-top:0.5em; font-size:0.9em; color:#333; max-height:0; overflow:hidden; transition:max-height 0.4s ease;">
+        Abstract goes here...
+      </div>
+    </div>
+  </div>
+</div>
 <!-- 精美折叠论文卡片 -->
 <div class="publication-card" style="display:flex; align-items:flex-start; margin-bottom:2em; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); padding:1em; transition:all 0.3s;">
 
