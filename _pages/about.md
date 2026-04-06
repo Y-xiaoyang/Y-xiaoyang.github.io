@@ -25,28 +25,8 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 ---
 
 ## 📄 Publications
-### Journal Articles
+### Some works
 
-- **OASNet: Orthogonal Attention-Guided Spatial–Semantic Representation Learning Network for Infrared Small Target Detection**  
-## Publications
-
-<div class="publication-card">
-  <div style="display:flex; align-items:flex-start; margin-bottom:2em; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); padding:1em;">
-    <div style="flex:0 0 150px; margin-right:1em;">
-      <img src="assets/images/paper1.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
-    </div>
-    <div style="flex:1;">
-      <h3>Paper Title Goes Here</h3>
-      <p style="font-size:0.9em; color:#555;">Xiaoyang Yuan, Coauthors.<br><em>Journal / Conference Name, Year</em></p>
-      <button class="abstract-toggle" style="margin-top:0.5em; font-size:0.85em; cursor:pointer; background-color:#f0f0f0; border:none; padding:0.4em 0.8em; border-radius:4px;">
-        Show Abstract
-      </button>
-      <div class="pub-abstract" style="margin-top:0.5em; font-size:0.9em; color:#333; max-height:0; overflow:hidden; transition:max-height 0.4s ease;">
-        Abstract goes here...
-      </div>
-    </div>
-  </div>
-</div>
 <!-- 精美折叠论文卡片 -->
 <div class="publication-card" style="display:flex; align-items:flex-start; margin-bottom:2em; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); padding:1em; transition:all 0.3s;">
 
@@ -74,6 +54,72 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
     </div>
   </div>
 </div>
+
+### Pub List
+
+1. **CSQNet: A Query-Driven Channel-Spatial Attention Network for Infrared Small Target Detection**  
+   Xiaoyang Yuan, Yiding Wang, Chunling Yang, Yan Zhang, Mingwei Zhang  
+   *IEEE Geoscience and Remote Sensing Letters, 2026*
+
+2. **Dual-Pathway Feature Separation and Gated Fusion Network for Infrared Small Target Detection**  
+   Xiaoyang Yuan, Yan Zhang, Chunling Yang, Jiankai Zhu, Hanwen Zhang, Aishi Zhou  
+   *IEEE Transactions on Geoscience and Remote Sensing, 2025*
+
+3. **OASNet: Orthogonal Attention-Guided Spatial--Semantic Representation Learning Network for Infrared Small Target Detection**  
+   Xiaoyang Yuan, Chunling Yang, Yuze Li, Yan Zhang  
+   *IEEE Geoscience and Remote Sensing Letters, 2025*
+
+4. **TSFNet: Temporal-Spatial Fusion Network for Hybrid Brain-Computer Interface**  
+   Yan Zhang, Bo Yin, Xiaoyang Yuan  
+   *Sensors, 2025*
+
+5. **DHNet: Dual-Hierarchy Geometric Learning with Hyperbolic Embeddings for Few-Shot Point Cloud Classification**  
+   Shuicai Luo, Xiaoyang Yuan, Can He, Jianshu Chao  
+   *Available at SSRN 5481761*
+
+6. **TFST-Net: A Time-Frequency and Spatio-Temporal Attention Network for Hybrid EEG-fNIRS Brain-Computer Interfaces**  
+   Xiaoyang Yuan, Yan Zhang  
+   *2025 IEEE 20th Conference on Industrial Electronics and Applications (ICIEA)*
+
+7. **Classifier Design for EEG-fNIRS Bimodal Brain-Computer Interface Technology**  
+   Yan Zhang, Bo Yin, Xiaoyang Yuan, Hao Wang  
+   *2025 IEEE 20th Conference on Industrial Electronics and Applications (ICIEA)*
+
+8. **MNHU-Net: A Multi-Scale Feature Fusion and Nested Structure-Based High-Order U-Net for Infrared Small Target Detection**  
+   Xiaoyang Yuan, Chunling Yang, Yu Chen, Yan Zhang  
+   *IEEE Transactions on Aerospace and Electronic Systems, 2025*
+
+9. **FDPF-Net: A full-scale dynamic pyramid fusion network for infrared small target detection**  
+   Xiaoyang Yuan, Chunling Yang, Yu Chen, Yan Zhang, Anran Zhong, Qiyuan Zheng  
+   *IEEE Transactions on Geoscience and Remote Sensing, 2025*
+
+10. **Visual attention-guided multi-perspective learning and location-aware network for infrared small target detection**  
+    Xiaoyang Yuan, Yan Zhang, Chunling Yang, Jiankai Zhu, Hanwen Zhang  
+    *Pattern Recognition, 2025*
+
+11. **IIMCNet: Intra-and Inter-Modality Correlation Network for Hybrid EEG-fNIRS Brain-Computer Interface**  
+    Xiaoyang Yuan, Yan Zhang, Peter Rolfe  
+    *IEEE Journal of Biomedical and Health Informatics, 2025*
+
+12. **Feature fusion improves brain-interface paradigm based on steady state visual evoked potential blocking response**  
+    Xiangtian Lin, Li Zhang, Xiaoyang Yuan, Changsheng Li, Le He  
+    *Journal of Radiation Research and Applied Sciences, 2024*
+
+13. **A signal prediction-based method for motor imagery EEG classification**  
+    Aishi Zhou, Li Zhang, Xiaoyang Yuan, Changsheng Li  
+    *Biomedical Signal Processing and Control, 2023*
+
+14. **A novel command generation method for SSVEP-based BCI by introducing SSVEP blocking response**  
+    Xiaoyang Yuan, Li Zhang, Qiang Sun, Xiangtian Lin, Changsheng Li  
+    *Computers in Biology and Medicine, 2022*
+
+15. **Enhancing detection of SSVEP-based BCIs via a novel CCA-based method**  
+    Xiaoyang Yuan, Qiang Sun, Li Zhang, Haozhe Wang  
+    *Biomedical Signal Processing and Control, 2022*
+
+16. **Improving SSVEP identification accuracy via generalized canonical correlation analysis**  
+    Qiang Sun, Minyou Chen, Li Zhang, Xiaoyang Yuan, Changsheng Li  
+    *2021 10th International IEEE/EMBS Conference on Neural Engineering (NER)*
 ---
 
 ## 📝 Peer Review Activities
