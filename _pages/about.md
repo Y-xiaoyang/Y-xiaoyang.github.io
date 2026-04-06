@@ -28,7 +28,35 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 ### Journal Articles
 
 - **OASNet: Orthogonal Attention-Guided Spatial–Semantic Representation Learning Network for Infrared Small Target Detection**  
+## Publications
 
+<!-- 精美折叠论文卡片 -->
+<div class="publication-card" style="display:flex; align-items:flex-start; margin-bottom:2em; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); padding:1em; transition:all 0.3s;">
+
+  <!-- 左侧图像 -->
+  <div style="flex:0 0 150px; margin-right:1em;">
+    <img src="assets/images/paper1.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
+  </div>
+
+  <!-- 右侧信息 -->
+  <div style="flex:1;">
+    <h3 style="margin:0 0 0.3em 0;">Paper Title Goes Here</h3>
+    <p style="margin:0.1em 0; font-size:0.9em; color:#555;">
+      Xiaoyang Yuan, Coauthors.<br>
+      <em>Journal / Conference Name, Year</em>
+    </p>
+
+    <!-- 摘要折叠按钮 -->
+    <button class="abstract-toggle" style="margin-top:0.5em; font-size:0.85em; cursor:pointer; background-color:#f0f0f0; border:none; padding:0.4em 0.8em; border-radius:4px; transition:all 0.2s;">
+      Show Abstract
+    </button>
+
+    <!-- 摘要内容 -->
+    <div class="pub-abstract" style="margin-top:0.5em; font-size:0.9em; color:#333; max-height:0; overflow:hidden; transition:max-height 0.4s ease;">
+      Abstract goes here...
+    </div>
+  </div>
+</div>
 ---
 
 ## 📝 Peer Review Activities
@@ -41,3 +69,22 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 - Email: Yuanxiaoyang1998@outlook.com  
 - Google Scholar: https://scholar.google.com/citations?user=8DV7A_QAAAAJ  
 - GitHub: https://github.com/Y-xiaoyang
+
+  <script>
+  document.querySelectorAll('.abstract-toggle').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const abstractDiv = btn.nextElementSibling;
+      if (abstractDiv.style.maxHeight && abstractDiv.style.maxHeight !== '0px') {
+        abstractDiv.style.maxHeight = '0';
+        btn.textContent = 'Show Abstract';
+      } else {
+        abstractDiv.style.maxHeight = abstractDiv.scrollHeight + 'px';
+        btn.textContent = 'Hide Abstract';
+      }
+    });
+
+    // Hover效果
+    btn.addEventListener('mouseover', () => btn.style.backgroundColor='#e0e0e0');
+    btn.addEventListener('mouseout', () => btn.style.backgroundColor='#f0f0f0');
+  });
+</script>
