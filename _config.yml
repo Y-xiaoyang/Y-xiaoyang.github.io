@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Xiaoyang Yuan"
   pronouns         : # example: "she/her"  
-  bio              : "Phd student, HIT, China"
+  bio              : "Phd student, Harbin Institute of Technology (HIT), China"
   location         : "Harbin, China"
   employer         : "Harbin Institute of Technology"
   uri              : # URL
@@ -53,32 +53,6 @@ author:
   github           : "Y-xiaoyang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  artstation       : # Username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
