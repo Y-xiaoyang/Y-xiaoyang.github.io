@@ -23,3 +23,19 @@
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' }}
 </div>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll('.abstract-toggle').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        const abstractDiv = btn.nextElementSibling;
+        if (abstractDiv.style.maxHeight && abstractDiv.style.maxHeight !== '0px') {
+          abstractDiv.style.maxHeight = '0';
+          btn.textContent = 'Show Abstract';
+        } else {
+          abstractDiv.style.maxHeight = abstractDiv.scrollHeight + 'px';
+          btn.textContent = 'Hide Abstract';
+        }
+      });
+    });
+  });
+</script>
