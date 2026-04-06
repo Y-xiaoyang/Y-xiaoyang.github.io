@@ -32,7 +32,7 @@ My research focuses on infrared intelligent sensing and multimodal brain–compu
 
   <!-- 左侧图像 -->
   <div style="flex:0 0 150px; margin-right:1em;">
-    <img src="assets/images/paper1.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
+    <img src="images/FDPF.png" alt="Paper 1" style="width:150px; height:auto; object-fit:cover; border-radius:6px;">
   </div>
 
   <!-- 右侧信息 -->
