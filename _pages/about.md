@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 ## 👋 About Me
-
+<div style="text-align: justify;">
 I am currently pursuing the Ph.D. degree in Electrical Engineering from Harbin Institute of Technology (HIT), Harbin, China.
 My research focuses on infrared intelligent sensing and multimodal brain–computer interfaces, aiming to advance robust perception and efficient neural information decoding in complex environments. At the theoretical level, I focus on sparse image perception, time-series signal modeling, and the underlying mechanisms of thermal radiation theory, with applications in small target detection, image segmentation, and multimodal neural signal processing.
-
+</div>
 ---
 
 ## 🔬 Research Interests
